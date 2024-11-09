@@ -1,0 +1,21 @@
+---
+title: "Andrew Cooper"
+---
+
+## Introduction
+
+::: columns
+::: {.column width="60%"}
+![Banff, Calgary](images/Andrew%20Cooper_Headshot.jpg){fig-align="left" width="3in"}
+:::
+
+::: {.column width="40%"}
+Welcome to my personal website! I am currently a 5th year PhD candidate studying Statistics at Virginia Polytechnic and State University. Before that I received my Bachelors ('18) and Masters ('20) degrees in Statistics from Duke University.
+:::
+:::
+
+## Presentations
+
+### DataWorks 2024
+
+{{< video https://www.youtube.com/watch?v=4ZJvAW93QtY&list=PLeZrxAVa0tJk0vNH1wKG3d-GtOjIsbIOv&index=48 aspect-ratio="16x9" title='From DataWorks 2024: ’Data-Driven Robust Design of an Aeroelastic Wing'>}}

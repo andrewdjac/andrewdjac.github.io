@@ -1,0 +1,15 @@
+project:
+  type: website
+  output-dir: docs
+
+sidebar:
+  contents: auto
+      
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
