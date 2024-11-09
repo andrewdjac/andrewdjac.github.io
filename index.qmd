@@ -6,7 +6,7 @@ title: "Andrew Cooper"
 
 ::: columns
 ::: {.column width="60%"}
-![Banff, Calgary](images/Andrew%20Cooper_Headshot.jpg){fig-align="left" width="3in"}
+![Banff, Calgary](images/headshot.jpg){fig-align="left" width="3in"}
 :::
 
 ::: {.column width="40%"}
