@@ -10,6 +10,12 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    grid:
+      sidebar-width: 300px
+      body-width: 700px
+      margin-width: 300px
+      gutter-width: 1.5rem
 
 editor: visual
 
+bibliography: publications.bib

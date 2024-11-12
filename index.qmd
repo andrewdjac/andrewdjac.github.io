@@ -1,21 +1,41 @@
 ---
 title: "Andrew Cooper"
+nocite: |
+  @*
 ---
 
 ## Introduction
 
-::: columns
-::: {.column width="60%"}
+::: {.grid}
+
+::: {.g-col-4}
 ![Banff, Calgary](images/headshot.jpg){fig-align="left" width="3in"}
 :::
 
-::: {.column width="40%"}
-Welcome to my personal website! I am currently a 5th year PhD candidate studying Statistics at Virginia Polytechnic and State University. Before that I received my Bachelors ('18) and Masters ('20) degrees in Statistics from Duke University.
+::: {.g-col-8}
+Welcome to my website! Here you can find information about some of the work I've completed so far in my Statistics career (and some other fun stuff). 
+
+I'm a 5th-year PhD candidate in Statistics at [Virginia Polytechnic and State University](https://www.stat.vt.edu/). Before that I received my Bachelors ('18) and Masters ('20) degrees in Statistics from [Duke University](htpps://www.stat.duke.edu/). If I'm not doing research, I'm probably playing saxophone or going on a hike.
 :::
 :::
 
+## Publications
+
+::: {#refs}
+:::
+
+## Software
+
+- Generalized Linear and Additive Models ("glam") - Available on [CRAN](https://cran.r-project.org/web/packages/glam/index.html)
+
 ## Presentations
+
+Some recorded presentations from past conferences and events.
 
 ### DataWorks 2024
 
 {{< video https://www.youtube.com/watch?v=4ZJvAW93QtY&list=PLeZrxAVa0tJk0vNH1wKG3d-GtOjIsbIOv&index=48 aspect-ratio="16x9" title='From DataWorks 2024: ’Data-Driven Robust Design of an Aeroelastic Wing'>}}
+
+## Music Performances
+
+{{< video https://www.youtube.com/watch?v=3R_wl0qlleM aspect-ratio="16x9" title="Virginia Tech Jazz Ensemble's performance of 'Spanish Flea'">}}
