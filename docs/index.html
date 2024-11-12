@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -83,10 +103,13 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#publications" id="toc-publications" class="nav-link" data-scroll-target="#publications">Publications</a></li>
+  <li><a href="#software" id="toc-software" class="nav-link" data-scroll-target="#software">Software</a></li>
   <li><a href="#presentations" id="toc-presentations" class="nav-link" data-scroll-target="#presentations">Presentations</a>
   <ul class="collapse">
   <li><a href="#dataworks-2024" id="toc-dataworks-2024" class="nav-link" data-scroll-target="#dataworks-2024">DataWorks 2024</a></li>
   </ul></li>
+  <li><a href="#music" id="toc-music" class="nav-link" data-scroll-target="#music">Music</a></li>
   </ul>
 </nav>
     </div>
@@ -114,27 +137,48 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="introduction" class="level2">
 <h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
-<div class="columns">
-<div class="column" style="width:60%;">
+<div class="grid">
+<div class="g-col-4">
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><img src="images/Andrew Cooper_Headshot.jpg" class="img-fluid figure-img" style="width:3in"></p>
+<p><img src="images/headshot.jpg" class="img-fluid figure-img" style="width:3in"></p>
 <figcaption>Banff, Calgary</figcaption>
 </figure>
 </div>
-</div><div class="column" style="width:40%;">
-<p>Welcome to my personal website! I am currently a 5th year PhD candidate studying Statistics at Virginia Polytechnic and State University. Before that I received my Bachelors (’18) and Masters (’20) degrees in Statistics from Duke University.</p>
+</div>
+<div class="g-col-8">
+<p>Welcome to my website! Here you can find information about some of the work I’ve completed so far in my Statistics career (and some other fun stuff).</p>
+<p>I am a 5th-year PhD candidate in Statistics at <a href="https://www.stat.vt.edu/">Virginia Polytechnic and State University</a>. Before that I received my Bachelors (’18) and Masters (’20) degrees in Statistics from <a href="htpps://www.stat.duke.edu/">Duke University</a>. If I’m not working on my dissertation, I’m probably playing saxophone or going on a hike.</p>
 </div>
 </div>
+</section>
+<section id="publications" class="level2">
+<h2 class="anchored" data-anchor-id="publications">Publications</h2>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-booth2023vecchia" class="csl-entry" role="listitem">
+Booth, Annie, Andrew Cooper, and Robert B Gramacy. 2023. <span>“Vecchia-Approximated Deep Gaussian Processes for Computer Experiments.”</span> <em>Journal of Computational and Graphical Statistics</em> 32 (3): 824–37. <a href="https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2129662">https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2129662</a>.
+</div>
+</div>
+</section>
+<section id="software" class="level2">
+<h2 class="anchored" data-anchor-id="software">Software</h2>
+<ul>
+<li>Generalized Linear and Additive Models (“glam”) - Available on <a href="https://cran.r-project.org/web/packages/glam/index.html">CRAN</a></li>
+</ul>
 </section>
 <section id="presentations" class="level2">
 <h2 class="anchored" data-anchor-id="presentations">Presentations</h2>
+<p>Some recorded presentations from past conferences and events.</p>
 <section id="dataworks-2024" class="level3">
 <h3 class="anchored" data-anchor-id="dataworks-2024">DataWorks 2024</h3>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/4ZJvAW93QtY" title="From DataWorks 2024: ’Data-Driven Robust Design of an Aeroelastic Wing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-
-
 </section>
+</section>
+<section id="music" class="level2">
+<h2 class="anchored" data-anchor-id="music">Music</h2>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/3R_wl0qlleM" title="Virginia Tech Jazz Ensemble's performance of 'Spanish Flea'" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
+
 </section>
 
 </main> <!-- /main -->
