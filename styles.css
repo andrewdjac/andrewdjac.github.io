@@ -1,1 +1,17 @@
 /* css styles */
+/*body {
+  background-image: url("images/lake.jpg");
+  background-size: cover;
+  background-repeat: repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}
+*/
+
+.quarto-title-banner {
+  margin-block-end: 10rem;
+  position: relative;
+  margin-top: 0px;
+  height: 100%;
+}
+

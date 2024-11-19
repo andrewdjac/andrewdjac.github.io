@@ -1,5 +1,6 @@
 ---
 title: "Andrew Cooper"
+title-block-banner: images/mountains_pano.jpg 
 nocite: |
   @*
 ---
@@ -9,13 +10,13 @@ nocite: |
 ::: {.grid}
 
 ::: {.g-col-4}
-![Banff, Calgary](images/headshot.jpg){fig-align="left" width="3in"}
+![](images/headshot.jpg){fig-align="left" width="3in"}
 :::
 
 ::: {.g-col-8}
 Welcome to my website! Here you can find information about some of the work I've completed so far in my Statistics career (and some other fun stuff). 
 
-I'm a 5th-year PhD candidate in Statistics at [Virginia Polytechnic and State University](https://www.stat.vt.edu/). Before that I received my Bachelors ('18) and Masters ('20) degrees in Statistics from [Duke University](htpps://www.stat.duke.edu/). If I'm not doing research, I'm probably playing saxophone or going on a hike.
+I'm a 5th-year PhD candidate in Statistics at [Virginia Polytechnic and State University](https://www.stat.vt.edu/). Before that I received my Bachelors ('18) and Masters ('20) degrees in Statistics from [Duke University](https://stat.duke.edu/). If I'm not doing research, I'm probably playing saxophone or going on a hike.
 :::
 :::
 
@@ -26,11 +27,15 @@ I'm a 5th-year PhD candidate in Statistics at [Virginia Polytechnic and State Un
 
 ## Software
 
-- Generalized Linear and Additive Models ("glam") - Available on [CRAN](https://cran.r-project.org/web/packages/glam/index.html)
+- Generalized Linear and Additive Models ("glam") - R package available to download on [CRAN](https://cran.r-project.org/web/packages/glam/index.html)
 
 ## Presentations
 
 Some recorded presentations from past conferences and events.
+
+### Virginia Tech Nutshell Games 2024
+
+{{< video https://www.youtube.com/watch?v=DpdX57pOyNo aspect-ratio="16x9" title='From Nutshell Games 2024: 'Using statistics to make things easier (really!)'>}}
 
 ### DataWorks 2024
 
