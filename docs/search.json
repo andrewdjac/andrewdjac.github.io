@@ -18,7 +18,7 @@
     "href": "index.html#publications",
     "title": "Andrew Cooper",
     "section": "Publications",
-    "text": "Publications\n\n\nBooth, Annie, Andrew Cooper, and Robert B Gramacy. 2023. “Vecchia-Approximated Deep Gaussian Processes for Computer Experiments.” Journal of Computational and Graphical Statistics 32 (3): 824–37. https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2129662.\n\n\nSauer, Annie, Andrew Cooper, and Robert B Gramacy. 2023. “Non-Stationary Gaussian Process Surrogates.” arXiv Preprint arXiv:2305.19242."
+    "text": "Publications\n\nCooper, Andrew, Annie S. Booth, Robert B. Gramacy. 2025. “Modernizing Full Posterior Inference for Surrogate Modeling of Categorical-Output Simulation Experiments.” Preprint.\nBooth, Annie S., Andrew Cooper, Robert B. Gramacy. 2023. “Non-Stationary Gaussian Process Surrogates.” Preprint.\nBooth, Annie S., Andrew Cooper, Robert B. Gramacy. 2023. “Vecchia-Approximated Deep Gaussian Processes for Computer Experiments.” Journal of Computational and Graphical Statistics 32 (3): 824–37."
   },
   {
     "objectID": "index.html#software",
@@ -35,10 +35,10 @@
     "text": "Presentations\nSome recorded presentations from past conferences and events.\n\nVirginia Tech Nutshell Games 2024\n\n\n\nDataWorks 2024"
   },
   {
-    "objectID": "index.html#music-performances",
-    "href": "index.html#music-performances",
+    "objectID": "index.html#other-fun-stuff",
+    "href": "index.html#other-fun-stuff",
     "title": "Andrew Cooper",
-    "section": "Music Performances",
-    "text": "Music Performances\n\nVirginia Tech Jazz Ensemble performance of “Magic Flea” by Sammy Nestico."
+    "section": "Other Fun Stuff",
+    "text": "Other Fun Stuff\n\nVirginia Tech Jazz Ensemble: “Magic Flea” by Sammy Nestico"
   }
 ]
