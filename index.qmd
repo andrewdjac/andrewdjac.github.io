@@ -3,6 +3,8 @@ title: "Andrew Cooper"
 title-block-banner: images/mountains_pano.jpg
 ---
 
+
+
 ## Introduction
 
 ::: {.grid}
