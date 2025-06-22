@@ -3,18 +3,12 @@ project:
   output-dir: docs
 
 website:
-  sidebar:
-    search: false
-    tools:
-      - icon: file-earmark
-        menu: 
-          - text: CV/Resume
-            href: /pdfs/resume.pdf
-      - icon: linkedin
-        menu:
-          - text: LinkedIn Profile
-            href: https://www.linkedin.com/in/andrew-cooper-75b107237/
-        
+  navbar:
+    left:
+      - text: CV/Resume
+        href: /pdfs/resume.pdf
+      - text: LinkedIn Profile
+        href: https://www.linkedin.com/in/andrew-cooper-75b107237/
       
 format:
   html:
