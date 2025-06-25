@@ -37,6 +37,10 @@ I'm a 5th-year PhD candidate in Statistics at [Virginia Polytechnic and State Un
 
 Some recorded presentations from past conferences and events.
 
+### Quality and Productivity Research Conference (QPRC) 2025
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7343428553268453377?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 ### Virginia Tech Nutshell Games 2024
 
 {{< video https://www.youtube.com/watch?v=DpdX57pOyNo aspect-ratio="16x9" title='From Nutshell Games 2024: 'Using statistics to make things easier (really!)'>}}
