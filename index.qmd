@@ -39,7 +39,7 @@ Some recorded presentations from past conferences and events.
 
 ### Quality and Productivity Research Conference (QPRC) 2025
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7343428553268453377?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7343428553268453377?compact=1" height="400" width="700" frameborder="0" allowfullscreen="" title="From QPRC 2025: Phase Angle Modeling for RFID Tag Localization with Wrapped Gaussian Processes"></iframe>
 
 ### Virginia Tech Nutshell Games 2024
 
