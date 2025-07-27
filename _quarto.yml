@@ -8,7 +8,7 @@ website:
     left:
       - text: CV/Resume
         href: /pdfs/resume.pdf
-      - text: LinkedIn Profile
+      - text: LinkedIn
         href: https://www.linkedin.com/in/andrew-cooper-75b107237/
       
 format:

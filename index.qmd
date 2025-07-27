@@ -3,20 +3,16 @@ title: "Andrew Cooper"
 title-block-banner: images/mountains_pano.jpg
 ---
 
-
-
-## Introduction
-
 ::: {.grid}
 
-::: {.g-col-4}
-![](images/headshot.jpg){fig-align="left" width="3in"}
+::: {.g-col-5}
+![](images/headshot.jpg){fig-align="left" width=400}
 :::
 
-::: {.g-col-8}
+::: {.g-col-7}
 Welcome to my website! Here you can find information about some of the work I've completed so far in my Statistics career (and some other fun stuff). 
 
-I'm a 5th-year PhD candidate in Statistics at [Virginia Polytechnic and State University](https://www.stat.vt.edu/). Before that I received my Bachelors ('18) and Masters ('20) degrees in Statistics from [Duke University](https://stat.duke.edu/). If I'm not doing research, I'm probably playing saxophone or going on a hike.
+I'm a 5th-year PhD candidate in Statistics at [Virginia Polytechnic and State University](https://www.stat.vt.edu/) studying under the mentorship of [Bobby Gramacy](https://bobby.gramacy.com/). Before that I received my Bachelors ('18) and Masters ('20) degrees in Statistics from [Duke University](https://stat.duke.edu/) under the mentorship of [Alexander Volfovsky](https://volfovsky.github.io/). If I'm not doing research, I'm probably playing saxophone or going on a hike.
 :::
 :::
 
