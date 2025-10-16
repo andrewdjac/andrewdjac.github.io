@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  back-to-top-navigation: true
   navbar:
     pinned: true
     left:
@@ -10,6 +11,8 @@ website:
         href: /pdfs/resume.pdf
       - text: LinkedIn
         href: https://www.linkedin.com/in/andrew-cooper-75b107237/
+      - text: GitHub
+        href: https://github.com/andrewdjac
       
 format:
   html:

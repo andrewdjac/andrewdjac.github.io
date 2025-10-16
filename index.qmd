@@ -12,7 +12,7 @@ title-block-banner: images/mountains_pano.jpg
 ::: {.g-col-7}
 Welcome to my website! Here you can find information about some of the work I've completed so far in my Statistics career (and some other fun stuff). 
 
-I'm a 5th-year PhD candidate in Statistics at [Virginia Polytechnic and State University](https://www.stat.vt.edu/) studying under the mentorship of [Bobby Gramacy](https://bobby.gramacy.com/). Before that I received my Bachelors ('18) and Masters ('20) degrees in Statistics from [Duke University](https://stat.duke.edu/) under the mentorship of [Alexander Volfovsky](https://volfovsky.github.io/). If I'm not doing research, I'm probably playing saxophone or going on a hike.
+I'm a sixth-year PhD candidate in Statistics at [Virginia Polytechnic and State University](https://www.stat.vt.edu/) studying under the mentorship of [Bobby Gramacy](https://bobby.gramacy.com/). Before that I received my Bachelors ('18) and Masters ('20) degrees in Statistics from [Duke University](https://stat.duke.edu/) under the mentorship of [Alexander Volfovsky](https://volfovsky.github.io/). If I'm not doing research, I'm probably playing saxophone or going on a hike.
 :::
 :::
 
@@ -45,7 +45,13 @@ Some recorded presentations from past conferences and events.
 
 {{< video https://www.youtube.com/watch?v=4ZJvAW93QtY&list=PLeZrxAVa0tJk0vNH1wKG3d-GtOjIsbIOv&index=48 aspect-ratio="16x9" title='From DataWorks 2024: ’Data-Driven Robust Design of an Aeroelastic Wing'>}}
 
-## Other Fun Stuff
+## Music
+
+### Upcoming Performances
+
+- November 15th, 2025 at [Mountain Lake Lodge](https://www.mtnlakelodge.com/?gad_source=1&gad_campaignid=1675777363&gbraid=0AAAAADuOVzj1VJ7OESJqRUKRSn9RXGxlE&gclid=CjwKCAjwr8LHBhBKEiwAy47uUhcHz2S-7qb-SHqz1Hfl5U2A7V1Tryh-lrBNcsG6XzyxVu7U4fb-oBoC0r0QAvD_BwE) with the Joel McGlothlin Quartet
+
+- December 19th, 2025 at [the Draper Mercantile](https://draperisfordreamers.com/) with the Joel McGlothlin Quartet
 
 ### Virginia Tech Jazz Ensemble: "Magic Flea" by Sammy Nestico
 
