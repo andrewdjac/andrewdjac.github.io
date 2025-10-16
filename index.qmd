@@ -53,6 +53,8 @@ Some recorded presentations from past conferences and events.
 
 - December 19th, 2025 at [the Draper Mercantile](https://draperisfordreamers.com/) with the Joel McGlothlin Quartet
 
-### Virginia Tech Jazz Ensemble: "Magic Flea" by Sammy Nestico
+### Past Recordings
+
+#### Virginia Tech Jazz Ensemble: "Magic Flea" by Sammy Nestico
 
 {{< video https://www.youtube.com/watch?v=3R_wl0qlleM aspect-ratio="16x9" title="Virginia Tech Jazz Ensemble's performance of 'Spanish Flea'">}}
