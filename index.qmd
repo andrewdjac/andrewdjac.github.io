@@ -18,7 +18,7 @@ I'm a sixth-year PhD candidate in Statistics at [Virginia Polytechnic and State 
 
 ## Publications
 
-- Cooper, Andrew, et al. 2025. "Robust Wrapped Gaussian Process Inference for Noisy Angular Data." *Preprint*.
+- Cooper, Andrew, et al. 2025. "[Robust Wrapped Gaussian Process Inference for Noisy Angular Data](https://arxiv.org/abs/2512.00277)." *Preprint*.
 
 - Cooper, Andrew, Annie S. Booth, Robert B. Gramacy. 2025. “[Modernizing Full Posterior Inference for Surrogate Modeling of Categorical-Output Simulation Experiments](https://arxiv.org/abs/2501.14946).” *Preprint*.
 
@@ -28,6 +28,8 @@ I'm a sixth-year PhD candidate in Statistics at [Virginia Polytechnic and State 
 
 
 ## Software
+
+- Wrapped Gaussian Process Modeling - R package available to download on [Github](https://github.com/lanl/wrapgp/tree/main)
 
 - Generalized Linear and Additive Models ("glam") - R package available to download on [CRAN](https://cran.r-project.org/web/packages/glam/index.html)
 
@@ -54,7 +56,8 @@ Some recorded presentations from past conferences and events.
 <del> - November 15th, 2025 at [Mountain Lake Lodge](https://www.mtnlakelodge.com/?gad_source=1&gad_campaignid=1675777363&gbraid=0AAAAADuOVzj1VJ7OESJqRUKRSn9RXGxlE&gclid=CjwKCAjwr8LHBhBKEiwAy47uUhcHz2S-7qb-SHqz1Hfl5U2A7V1Tryh-lrBNcsG6XzyxVu7U4fb-oBoC0r0QAvD_BwE) with the Joel McGlothlin Quartet 
 </del>
 
-- December 19th, 2025 at [the Draper Mercantile](https://draperisfordreamers.com/) with the Joel McGlothlin Quartet
+<del> - December 19th, 2025 at [the Draper Mercantile](https://draperisfordreamers.com/) with the Joel McGlothlin Quartet
+</del>
 
 ### Past Recordings
 
