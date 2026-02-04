@@ -16,6 +16,10 @@ I'm a sixth-year PhD candidate in Statistics at [Virginia Polytechnic and State 
 :::
 :::
 
+## Recent Accolades
+
+- [Student Paper Award Winner - ASA Section on Statistics in Defense and National Security](https://drive.google.com/file/d/1NOx2bRvMSRiJLp1kp5ZR6TQgO6p5B1Ih/view?usp=drive_web). *To be presented at [DATAWorks 2026](https://dataworks.testscience.org/)*.
+
 ## Publications
 
 - Cooper, Andrew, et al. 2025. "[Robust Wrapped Gaussian Process Inference for Noisy Angular Data](https://arxiv.org/abs/2512.00277)." *Preprint*.
@@ -29,9 +33,9 @@ I'm a sixth-year PhD candidate in Statistics at [Virginia Polytechnic and State 
 
 ## Software
 
-- Wrapped Gaussian Process Modeling - R package available to download on [Github](https://github.com/lanl/wrapgp/tree/main)
+- Wrapped Gaussian Process Modeling - R package available to download on [Github](https://github.com/lanl/wrapgp/tree/main).
 
-- Generalized Linear and Additive Models ("glam") - R package available to download on [CRAN](https://cran.r-project.org/web/packages/glam/index.html)
+- Generalized Linear and Additive Models ("glam") - R package available to download on [CRAN](https://cran.r-project.org/web/packages/glam/index.html).
 
 ## Presentations
 
@@ -53,13 +57,13 @@ Some recorded presentations from past conferences and events.
 
 ### Upcoming Performances
 
-<del> - November 15th, 2025 at [Mountain Lake Lodge](https://www.mtnlakelodge.com/?gad_source=1&gad_campaignid=1675777363&gbraid=0AAAAADuOVzj1VJ7OESJqRUKRSn9RXGxlE&gclid=CjwKCAjwr8LHBhBKEiwAy47uUhcHz2S-7qb-SHqz1Hfl5U2A7V1Tryh-lrBNcsG6XzyxVu7U4fb-oBoC0r0QAvD_BwE) with the Joel McGlothlin Quartet 
+<del> - November 15th, 2025 at [Mountain Lake Lodge](https://www.mtnlakelodge.com/?gad_source=1&gad_campaignid=1675777363&gbraid=0AAAAADuOVzj1VJ7OESJqRUKRSn9RXGxlE&gclid=CjwKCAjwr8LHBhBKEiwAy47uUhcHz2S-7qb-SHqz1Hfl5U2A7V1Tryh-lrBNcsG6XzyxVu7U4fb-oBoC0r0QAvD_BwE) with the Joel McGlothlin Quartet.
 </del>
 
-<del> - December 20th, 2025 at [Montanos International Gourmet](https://www.montanos.net/) with the Joel McGlothlin Quartet
+<del> - December 20th, 2025 at [Montanos International Gourmet](https://www.montanos.net/) with the Joel McGlothlin Quartet.
 </del>
 
-- March 27th, 2026 at [the Draper Mercantile](https://draperisfordreamers.com/) with the Joel McGlothlin Quartet
+- March 27th, 2026 at [the Draper Mercantile](https://draperisfordreamers.com/) with the Joel McGlothlin Quartet.
 
 ### Past Recordings
 

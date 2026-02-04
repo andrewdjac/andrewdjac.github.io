@@ -5,6 +5,7 @@ project:
 website:
   back-to-top-navigation: true
   navbar:
+    search: false
     pinned: true
     left:
       - text: Curriculum Vitae
