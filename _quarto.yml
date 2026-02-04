@@ -7,12 +7,15 @@ website:
   navbar:
     pinned: true
     left:
-      - text: CV/Resume
+      - text: Curriculum Vitae
         href: /pdfs/resume.pdf
+        icon: download
       - text: LinkedIn
         href: https://www.linkedin.com/in/andrew-cooper-75b107237/
+        icon: linkedin
       - text: GitHub
         href: https://github.com/andrewdjac
+        icon: github
       
 format:
   html:

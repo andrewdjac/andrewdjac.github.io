@@ -20,7 +20,7 @@ I'm a sixth-year PhD candidate in Statistics at [Virginia Polytechnic and State 
 
 - Cooper, Andrew, et al. 2025. "[Robust Wrapped Gaussian Process Inference for Noisy Angular Data](https://arxiv.org/abs/2512.00277)." *Preprint*.
 
-- Cooper, Andrew, Annie S. Booth, Robert B. Gramacy. 2025. “[Modernizing Full Posterior Inference for Surrogate Modeling of Categorical-Output Simulation Experiments](https://arxiv.org/abs/2501.14946).” *Accepted in Quality Engineering*.
+- Cooper, Andrew, Annie S. Booth, Robert B. Gramacy. 2026. “[Modernizing Full Posterior Inference for Surrogate Modeling of Categorical-Output Simulation Experiments](https://www.tandfonline.com/doi/full/10.1080/08982112.2025.2552420).” Quality Engineering 38 (1): 91-110.
 
 - Booth, Annie S., Andrew Cooper, Robert B. Gramacy. 2023. “[Non-Stationary Gaussian Process Surrogates](https://arxiv.org/abs/2305.19242).” *Preprint*.  
 
@@ -59,7 +59,7 @@ Some recorded presentations from past conferences and events.
 <del> - December 20th, 2025 at [Montanos International Gourmet](https://www.montanos.net/) with the Joel McGlothlin Quartet
 </del>
 
-- March 27th, 2025 at [the Draper Mercantile](https://draperisfordreamers.com/) with the Joel McGlothlin Quartet
+- March 27th, 2026 at [the Draper Mercantile](https://draperisfordreamers.com/) with the Joel McGlothlin Quartet
 
 ### Past Recordings
 
