@@ -63,7 +63,8 @@ Some recorded presentations from past conferences and events.
 <del> - December 20th, 2025 at [Montanos International Gourmet](https://www.montanos.net/) with the Joel McGlothlin Quartet.
 </del>
 
-- March 27th, 2026 at [the Draper Mercantile](https://draperisfordreamers.com/) with the Joel McGlothlin Quartet.
+<del> - March 27th, 2026 at [the Draper Mercantile](https://draperisfordreamers.com/) with the Joel McGlothlin Quartet.
+</del>
 
 ### Past Recordings
 
